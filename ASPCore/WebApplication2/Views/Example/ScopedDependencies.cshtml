@@ -1,0 +1,48 @@
+﻿@using WebApplication2.Interfaces
+@using WebApplication2.Services
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@{
+    IExampleScoped scoped = (IExampleScoped)ViewData["Scoped"];
+    ExampleService service = (ExampleService)ViewBag.Service;
+}
+
+<h2>Scoped Lifetime Dependencies</h2>
+<h3>ExampleController</h3>
+<h5><u>Scoped ExampleId: @scoped.ExampleId</u></h5>
+
+<table>
+    <tr>
+        <th>Dependencies</th>
+        <th>Guid Value</th>
+    </tr>
+    <tr>
+        <td>Singelton Dependency</td>
+        <td>@scoped.SingletonExampleId</td>
+    </tr>
+    <tr>
+        <td>Transient Dependency</td>
+        <td>@scoped.TransientExampleId</td>
+    </tr>
+</table>
+
+<h3>ExampleService</h3>
+<h5><u>Scoped ExampleId: @service.ScopedExample.ExampleId</u></h5>
+<table>
+    <tr>
+        <th>Dependencies</th>
+        <th>Guid Value</th>
+    </tr>
+    <tr>
+        <td>Singelton Dependency</td>
+        <td>@service.ScopedExample.SingletonExampleId</td>
+    </tr>
+    <tr>
+        <td>Transient Dependency</td>
+        <td>@service.ScopedExample.TransientExampleId</td>
+    </tr>
+</table>

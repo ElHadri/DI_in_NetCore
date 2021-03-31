@@ -1,0 +1,16 @@
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\bin\Debug\netcoreapp3.1\Ambient_Context.exe
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\obj\Debug\netcoreapp3.1\Ambient_Context.AssemblyInfoInputs.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\obj\Debug\netcoreapp3.1\Ambient_Context.AssemblyInfo.cs
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\bin\Debug\netcoreapp3.1\Ambient_Context.deps.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\bin\Debug\netcoreapp3.1\Ambient_Context.runtimeconfig.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\bin\Debug\netcoreapp3.1\Ambient_Context.runtimeconfig.dev.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\bin\Debug\netcoreapp3.1\Ambient_Context.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\bin\Debug\netcoreapp3.1\Ambient_Context.pdb
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\obj\Debug\netcoreapp3.1\Ambient_Context.csprojAssemblyReference.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\obj\Debug\netcoreapp3.1\Ambient_Context.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\obj\Debug\netcoreapp3.1\Ambient_Context.csproj.CopyComplete
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\obj\Debug\netcoreapp3.1\Ambient_Context.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\obj\Debug\netcoreapp3.1\Ambient_Context.pdb
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Ambiant_Context\obj\Debug\netcoreapp3.1\Ambient_Context.genruntimeconfig.cache

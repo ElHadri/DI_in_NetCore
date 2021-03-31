@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCQbFzZ/1d+pP9z3utGZnt+ca456ze0gwI3YxO62F7XYJgXdtiWee3nBtH7fIsHoTY6BGeSzI2oNPdIgdX76aw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adil\\Source\\Repos\\testDIAngular\\testDIAngular\\testDIAngular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adil\\.nuget\\packages\\angularjs.core\\1.8.0\\angularjs.core.1.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="26" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="6.7.10.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp_ILWeaving]PostSharp_ILWeaving.LoggingWeaverAspect">
+    <Instance Declaration="#2=M:[PostSharp_ILWeaving]CastleWindsor_Interceptor.Example::PrintName(System.String, System.String)" Id="debfb6dc2a32b976">
+      <Target LinesAvoided="8">
+        <JoinPoint Description="#3=Wrapped by advice(s) OnEntry, OnSuccess, OnException, OnExit" Ordinal="0" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#4=M:[PostSharp_ILWeaving]PostSharp_ILWeaving.LoggingWeaverAspect::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5=2" Description="#6=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#7=M:[PostSharp_ILWeaving]PostSharp_ILWeaving.LoggingWeaverAspect::OnSuccess(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5" Description="#6" />
+  <Annotation Target="#8=M:[PostSharp_ILWeaving]PostSharp_ILWeaving.LoggingWeaverAspect::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5" Description="#6" />
+  <Annotation Target="#9=M:[PostSharp_ILWeaving]PostSharp_ILWeaving.LoggingWeaverAspect::OnException(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5" Description="#6" />
+</Symbols>

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Va2hgAXCsVjltdr/IEdHB/8DmWTk94y6N43M0pJrncKXw+HgtoTqncQ4RxCN0f+3RbKh76UnR4xqL2ndsendwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adil\\Source\\Repos\\DI_in_NetCore\\testDIAngular\\ConsoleApp_Logging\\ConsoleApp_Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.logging\\3.1.9\\microsoft.extensions.logging.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.9\\microsoft.extensions.logging.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.9\\microsoft.extensions.logging.console.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.logging.debug\\3.1.9\\microsoft.extensions.logging.debug.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.options\\3.1.9\\microsoft.extensions.options.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.9\\microsoft.extensions.options.configurationextensions.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

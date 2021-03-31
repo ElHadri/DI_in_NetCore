@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mcz+h8IPS2bXjPCcCgflFgPWQB4Ks7mCEwTEmJ/32GOAUJ1NT7fS9yUL6w0dPvCSx8vqddnKL06gqAaD5LqPLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adil\\Source\\Repos\\DI_in_NetCore\\CastleWindsor_Interceptor\\PostSharp_ILWeaving\\PostSharp_ILWeaving.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adil\\.nuget\\packages\\postsharp\\6.7.10\\postsharp.6.7.10.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\postsharp.redist\\6.7.10\\postsharp.redist.6.7.10.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

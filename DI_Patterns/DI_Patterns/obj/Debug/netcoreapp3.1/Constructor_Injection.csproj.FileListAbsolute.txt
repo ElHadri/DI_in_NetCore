@@ -1,0 +1,15 @@
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\bin\Debug\netcoreapp3.1\Constructor_Injection.exe
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\bin\Debug\netcoreapp3.1\Constructor_Injection.deps.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\bin\Debug\netcoreapp3.1\Constructor_Injection.runtimeconfig.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\bin\Debug\netcoreapp3.1\Constructor_Injection.runtimeconfig.dev.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\bin\Debug\netcoreapp3.1\Constructor_Injection.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\bin\Debug\netcoreapp3.1\Constructor_Injection.pdb
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\obj\Debug\netcoreapp3.1\Constructor_Injection.AssemblyInfoInputs.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\obj\Debug\netcoreapp3.1\Constructor_Injection.AssemblyInfo.cs
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\obj\Debug\netcoreapp3.1\Constructor_Injection.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\obj\Debug\netcoreapp3.1\Constructor_Injection.csproj.CopyComplete
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\obj\Debug\netcoreapp3.1\Constructor_Injection.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\obj\Debug\netcoreapp3.1\Constructor_Injection.pdb
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\DI_Patterns\obj\Debug\netcoreapp3.1\Constructor_Injection.genruntimeconfig.cache

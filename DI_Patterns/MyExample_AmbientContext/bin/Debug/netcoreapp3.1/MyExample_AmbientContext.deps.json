@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyExample_AmbientContext/1.0.0": {
+        "runtime": {
+          "MyExample_AmbientContext.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyExample_AmbientContext/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

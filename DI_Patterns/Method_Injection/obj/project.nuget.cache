@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNDDgHK9ND5/I8LajgQ1J4rKPncHzufUnCbVcT+FhcVe/kReONnHMmsMPy2R1ul3zUC5ZGMdv8sAt0ctRfw7Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adil\\Source\\Repos\\DI_in_NetCore\\DI_Patterns\\Method_Injection\\Method_Injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.9\\microsoft.extensions.dependencyinjection.3.1.9.nupkg.sha512",
+    "C:\\Users\\Adil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

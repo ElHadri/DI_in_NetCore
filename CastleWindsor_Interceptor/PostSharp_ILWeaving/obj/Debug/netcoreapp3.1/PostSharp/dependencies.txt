@@ -1,0 +1,2 @@
+C:\Users\Adil\Source\Repos\DI_in_NetCore\CastleWindsor_Interceptor\PostSharp_ILWeaving\obj\Debug\netcoreapp3.1\PostSharp\PostSharp.Compiler.Engine.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\CastleWindsor_Interceptor\PostSharp_ILWeaving\obj\Debug\netcoreapp3.1\PostSharp\postsharp.config

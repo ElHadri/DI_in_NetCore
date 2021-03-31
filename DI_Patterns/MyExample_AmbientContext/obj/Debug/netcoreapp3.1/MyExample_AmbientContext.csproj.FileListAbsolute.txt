@@ -1,0 +1,13 @@
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\bin\Debug\netcoreapp3.1\MyExample_AmbientContext.exe
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\bin\Debug\netcoreapp3.1\MyExample_AmbientContext.deps.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\bin\Debug\netcoreapp3.1\MyExample_AmbientContext.runtimeconfig.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\bin\Debug\netcoreapp3.1\MyExample_AmbientContext.runtimeconfig.dev.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\bin\Debug\netcoreapp3.1\MyExample_AmbientContext.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\bin\Debug\netcoreapp3.1\MyExample_AmbientContext.pdb
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\obj\Debug\netcoreapp3.1\MyExample_AmbientContext.csprojAssemblyReference.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\obj\Debug\netcoreapp3.1\MyExample_AmbientContext.AssemblyInfoInputs.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\obj\Debug\netcoreapp3.1\MyExample_AmbientContext.AssemblyInfo.cs
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\obj\Debug\netcoreapp3.1\MyExample_AmbientContext.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\obj\Debug\netcoreapp3.1\MyExample_AmbientContext.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\obj\Debug\netcoreapp3.1\MyExample_AmbientContext.pdb
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\MyExample_AmbientContext\obj\Debug\netcoreapp3.1\MyExample_AmbientContext.genruntimeconfig.cache

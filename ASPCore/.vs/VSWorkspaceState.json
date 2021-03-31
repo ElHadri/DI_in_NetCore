@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplication",
+    "\\WebApplication\\bin",
+    "\\WebApplication\\bin\\Debug",
+    "\\WebApplication\\bin\\Debug\\netcoreapp3.1"
+  ],
+  "SelectedNode": "\\WebApplication\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}

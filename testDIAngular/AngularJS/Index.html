@@ -1,0 +1,59 @@
+﻿<!--<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>AngularJS initial demo</title>
+    <script src="Scripts/angular.js"></script>
+</head>
+<body ng-app="module">
+    <h2 ng-controller="TimeController">
+        Current time: {{time}}
+    </h2>
+
+    <script>
+        var appModule = angular.module("module", []);
+        appModule.controller("TimeController",
+            function ($scope) {
+                $scope.time = new Date().toLocaleTimeString();
+            });
+    </script>
+</body>
+</html>-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>AngularJS Data Access Demo</title>
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/angular.js"></script>
+</head>
+
+<body ng-app="app" class="container">
+    <h2>A list of ASP.NET Core Books (by PACKT)</h2>
+    <ul ng-controller="ListController">
+        <li ng-repeat="book in Books">
+            {{book.Title}}, <strong><em>{{book.Author}}</em></strong>
+        </li>
+    </ul>
+
+    <script>
+        angular.module("app", []); //Module creation is not cached into a variable (this avoids unnecessary variables in the global space).
+
+        // preparing the controller without link it to a module
+        var ListController = function ($scope, $http) {
+            $http.get("BookStore.json").
+                then(function (response) {
+                    $scope.Books = response.data;
+                }).
+                catch(function (error) {
+                    alert(error.statusText);
+                });
+        };
+        ListController.$inject = ["$scope", "$http"]; // pour résoudre le problème de minifier
+
+        angular.module("app").controller("ListController", ListController);
+    </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\bin\Debug\netcoreapp3.1\Method_Injection.exe
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\bin\Debug\netcoreapp3.1\Method_Injection.deps.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\bin\Debug\netcoreapp3.1\Method_Injection.runtimeconfig.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\bin\Debug\netcoreapp3.1\Method_Injection.runtimeconfig.dev.json
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\bin\Debug\netcoreapp3.1\Method_Injection.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\bin\Debug\netcoreapp3.1\Method_Injection.pdb
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\obj\Debug\netcoreapp3.1\Method_Injection.csprojAssemblyReference.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\obj\Debug\netcoreapp3.1\Method_Injection.AssemblyInfoInputs.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\obj\Debug\netcoreapp3.1\Method_Injection.AssemblyInfo.cs
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\obj\Debug\netcoreapp3.1\Method_Injection.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\obj\Debug\netcoreapp3.1\Method_Injection.csproj.CopyComplete
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\obj\Debug\netcoreapp3.1\Method_Injection.dll
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\obj\Debug\netcoreapp3.1\Method_Injection.pdb
+C:\Users\Adil\Source\Repos\DI_in_NetCore\DI_Patterns\Method_Injection\obj\Debug\netcoreapp3.1\Method_Injection.genruntimeconfig.cache
